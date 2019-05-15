@@ -3,7 +3,7 @@
 ## Inhoudsopgaven
 
 ## Planning
-## Interne rollenverdeling
+## Internet trollenverdeling
 ## Beschrijving van het project
 
   * Definitie/afbakening/scope
