@@ -3,6 +3,7 @@
 ## Inhoudsopgaven
 
 ## Planning
+doe die da
 ## Interne(T.T)rollenverdeling
 ## Beschrijving van het project
 
