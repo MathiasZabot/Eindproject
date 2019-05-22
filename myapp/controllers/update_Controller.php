@@ -1,5 +1,10 @@
 <?php
 
+/*
+ * @package Tiny?VC
+ *
+ */
+
 class update_Controller extends TinyMVC_Controller
 {
   public function index (){

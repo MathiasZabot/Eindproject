@@ -2,8 +2,10 @@
 
 class delete_Controller extends TinyMVC_Controller
 {
-  $db = new db ('localhost', 'root', '', 'klanten');
-  $db->deleteDataById();
-  }
+    public function index(){
+        $this->load->model('db','db');
+        $this->db->deleteDataById();
+
+    }
 
 }

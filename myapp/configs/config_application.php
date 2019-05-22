@@ -19,7 +19,7 @@ $config['root_controller'] = null;
 $config['root_action'] = null;
 
 /* name of default controller/method when none is given in the URL */
-$config['default_controller'] = 'default';
+$config['default_controller'] = 'home_Controller';
 $config['default_action'] = 'index';
 
 /* name of PHP function that handles system errors */
