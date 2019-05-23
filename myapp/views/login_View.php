@@ -10,15 +10,20 @@
   </head>
   <body>
     <div class="container">
-      <ul class="nav nav-tabs">
-        <li class="nav-item">
-          Contacten
-        </li>
-        <li class="nav-item">
-          Bedrijven
-        </li>
-      </ul>
-      
+      <form action="" method="post">
+        <p>
+            <!--<label for="voornaam">Voornaam:</label>-->
+            <input type="text" name="gebruikersnaam" id="gebruikersnaam" placeholder="Gebruikersnaam" />
+        </p>
+        <p>
+            <!--<label for="achternaam">Achternaam:</label>-->
+            <input type="text" name="wachtwoord" id="wachtwoord" placeholder="Wachtwoord" />
+        </p>
+        <p>
+            <input type="submit" value="Inloggen" />
+        </p>
+      </form>
+
     </div>
   </body>
 </html>
